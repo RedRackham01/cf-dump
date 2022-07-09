@@ -1,2 +1,1 @@
-# cf-dump
-Solutions to problems from Codeforces
+This Repository contains my solutions to some of the problems from Codeforces
